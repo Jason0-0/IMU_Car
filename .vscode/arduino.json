@@ -1,0 +1,6 @@
+{
+    "programmer": "ArduinoISP",
+    "board": "arduino:avr:uno",
+    "port": "COM4",
+    "sketch": "another_fucking_car.ino"
+}
